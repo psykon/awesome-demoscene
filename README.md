@@ -3,6 +3,30 @@ Awesome stuff by/and/for/with sceners.
 
 Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan't to change that. :)
 
+
+<!-- TOC -->
+
+- [Awesome Demoscene](#awesome-demoscene)
+    - [Tutorials and Guides](#tutorials-and-guides)
+    - [Demomaking](#demomaking)
+        - [Frameworks, Libs & Engines](#frameworks-libs--engines)
+        - [Tools](#tools)
+        - [Audio & Synths](#audio--synths)
+    - [Productions](#productions)
+        - [Executable Graphics](#executable-graphics)
+        - [1 k Intros](#1-k-intros)
+        - [4 k Intros](#4-k-intros)
+        - [8 k Intros](#8-k-intros)
+        - [64 k Intros](#64-k-intros)
+        - [Demos](#demos)
+    - [Misc](#misc)
+        - [Demoparty Organizing](#demoparty-organizing)
+        - [Viewing and Capturing](#viewing-and-capturing)
+        - [Websites & Social](#websites--social)
+        - [Github Orgs](#github-orgs)
+
+<!-- /TOC -->
+
 ## Tutorials and Guides
 
 * [Teach yourself demoscene in 14 days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - Fantastic starting guide by ps.
