@@ -46,6 +46,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [isystem1k4k](https://github.com/in4k/isystem1k4k) - iq's open source 1k / 4k framework(s) 
 * [4k Demo Oven](https://github.com/CookieCollective/4k-Demo-Oven) - Framework for 4k demos. 
 * [LunarEngine](https://github.com/Moon70/LunarEngine) - This is a very primitive graphics engine, using a simple integer array as chunky-buffer. 
+* [gShaderReplacer](https://github.com/psycholns/gShaderReplacer) - OpenGL proxy dll for shader replacement and debugging 
 
 
 ### Tools
