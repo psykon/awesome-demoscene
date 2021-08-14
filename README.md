@@ -55,7 +55,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [nin](https://github.com/ninjadev/nin) - Ninjadev's internal demo tool. It is a tool for easing development of browser-based WebGL demos.
 * [Rocket](https://github.com/rocket/rocket) - A tool for synchronizing music and visuals in demoscene productions.
 * [Crinkler](https://github.com/runestubbe/Crinkler) - Crinkler is an executable file compressor for Windows for compressing small demoscene executables.
-* [Farbrausch Public Repo](https://github.com/farbrausch/fr_public) - Farbrausch tools from 2001 to 2011 including werkzeug3.
+* [Farbrausch Public Repo](https://github.com/farbrausch/fr_public) - Farbrausch tools from 2001 to 2011 including werkzeug3 and kkrunchy.
 * [Werkzeug4](https://github.com/kebby/Werkkzeug4) - Farbrausch Werkkzeug4 and Screens4
 * [CNS 2012 Source Pack](https://github.com/ConspiracyHu/2012SourcePack) - Repo containing demotools (and intros) of conspiracy up to 2012.
 * [Grimoire](https://github.com/jshrake/grimoire) - A cross-platform live-coding tool for creative coding with GLSL shaders 
