@@ -43,7 +43,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [shortcrust](https://github.com/gasman/shortcrust) - Shortcrust is a Python wrapper library for OpenGL, intended for building applications that are portable to the Raspberry Pi.
 * [Blossom](https://github.com/lunasorcery/Blossom) - 4K Executable Graphics framework 
 * [Ever Laster Engine](https://github.com/excess-demogroup/even-laster-engine) - Excess demo engine 
-* [isystem1k4k](https://github.com/in4k/isystem1k4k) - iq's open source 1k / 4k framework(s) 
+<!-- * [isystem1k4k](https://github.com/in4k/isystem1k4k) - iq's open source 1k / 4k framework(s) - removed for now - because outdated libs, etc  -->
 * [4k Demo Oven](https://github.com/CookieCollective/4k-Demo-Oven) - Framework for 4k demos. 
 * [LunarEngine](https://github.com/Moon70/LunarEngine) - This is a very primitive graphics engine, using a simple integer array as chunky-buffer. 
 * [gShaderReplacer](https://github.com/psycholns/gShaderReplacer) - OpenGL proxy dll for shader replacement and debugging 
