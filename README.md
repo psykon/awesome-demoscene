@@ -10,7 +10,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [in4k.github.io](https://github.com/in4k/in4k.github.io) - markdown clone / fork / 2016 revamp of the good old in4k.untergrund.net wiki - in4k.github.io
 
 
-## Demomaking (Engines, Frameworks, Tools)
+## Demomaking
 *Ressources for creating demos and intros.*
 
 ### Frameworks, Libs & Engines
