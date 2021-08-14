@@ -31,11 +31,13 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Rocket](https://github.com/rocket/rocket) - A tool for synchronizing music and visuals in demoscene productions.
 * [Crinkler](https://github.com/runestubbe/Crinkler) - Crinkler is an executable file compressor for Windows for compressing small demoscene executables.
 * [Farbrausch Public Repo](https://github.com/farbrausch/fr_public) - Farbrausch tools from 2001 to 2011 including werkzeug3.
+* [Werkzeug4](https://github.com/kebby/Werkkzeug4) - Farbrausch Werkkzeug4 and Screens4
 * [CNS 2012 Source Pack](https://github.com/ConspiracyHu/2012SourcePack) - Repo containing demotools (and intros) of conspiracy up to 2012.
 * [Grimoire](https://github.com/jshrake/grimoire) - A cross-platform live-coding tool for creative coding with GLSL shaders 
 * [Shader Minifier](https://github.com/laurentlb/Shader_Minifier) - A tool that minifies and obfuscates shader code (GLSL and HLSL).
 * [GLSL Shader Shrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - A Windows GUI tool that attempts to reduce the size of GLSL fragment shader code, whilst keeping it readable and understandable.
 * [Shiba](https://github.com/KoltesDigital/shiba) - Digital content creation tool for demoscene and live coding.
+
  
 
 
@@ -82,13 +84,12 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * ["Appear" by Jetlag](https://github.com/w23/jetlag_appear) - Released at Revision 2018
 * ["PiaggioNonTroppo" by Cookie Collective](https://github.com/CookieCollective/Evoke-2019-4k) -  10th in the Evoke 2019 PC 4K Intro competition
 
-
-### 64k Intros
-* [CNS 2012 Source Pack](https://github.com/ConspiracyHu/2012SourcePack) - Repo containing intros (inc. demotools) of conspiracy up to 2012.
-
 ### 8k Intros
 * ["From The Seas To The Stars" by Fizzer and noby / Eos](https://github.com/demoscene-source-archive/from-the-seas-to-the-stars) -  3rd in the Evoke 2018 PC 64K Intro competition
 * ["Blue Morpho" by Eos](https://github.com/demoscene-source-archive/blue-morpho) -  3rd in the TRSAC 2016 PC 64k competition
+
+### 64k Intros
+* [CNS 2012 Source Pack](https://github.com/ConspiracyHu/2012SourcePack) - Repo containing intros (inc. demotools) of conspiracy up to 2012.
 
 
 ### Demos
@@ -126,10 +127,14 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Exemusic Recorder](https://github.com/reddor/emr)
 * [Foxotron](https://github.com/Gargaj/Foxotron) - ASSIMP based general purpose model viewer ("turntable") created for the Revision 2021 3D Graphics Competition
 * [ILBMViewer](https://github.com/Gargaj/ILBMViewer) - ILBM (color-cycling image format) viewer for Windows 
+* [showNet](https://github.com/vranki/showet) - Demo viewer using Pouet.net's metadata 
 
-### Websites
+
+### Websites & Social
 * [Demozoo](https://github.com/demozoo/demozoo) - Repo for www.demozoo.org
-* [Pouet](https://github.com/pouetnet/pouet2.0) - Repo for www.pouet.net/
+* [Pouet](https://github.com/pouetnet/pouet2.0) - Repo for www.pouet.net
+* [PouetDiscordBot](https://github.com/kebby/pouet-discord-bot) - A bot to spam #pouet on demoscene discord with highly relevant pouet stuff. 
+* [pouet-enhancement-suite](https://github.com/pandrr/pouet-enhancement-suite) - FireFox/Chrome Addon for Pouet Browsing.
 * [demoscene.no](https://github.com/demoscene-no/demoscene-no.github.io) - The source code for demoscene.no 
 
 ### Github Orgs
