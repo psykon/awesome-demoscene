@@ -1,7 +1,7 @@
 # Awesome Demoscene
 Awesome stuff by/and/for/with sceners. 
 
-Right not, this is mostly Focused on PC/OGL/DX Plattforms - Send a PR if you wan't to change that. :)
+Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan't to change that. :)
 
 ## Tutorials and Guides
 
