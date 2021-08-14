@@ -124,7 +124,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Capturinha](https://github.com/kebby/Capturinha) - A tool for real time screen and audio capture on Windows, using NVIDIA's NVENC. 
 * [Conduit](https://github.com/Gargaj/Conduit) - Demo downloader and watching utility and browser plugin 
 * [upskkale](https://github.com/Gargaj/upskkale) - .kkapture-based realtime upscaling of demos that run in deprecated / unsupported video modes. 
-* [Exemusic Recorder](https://github.com/reddor/emr)
+* [Exemusic Recorder](https://github.com/reddor/emr) - A tool to record music from executables.
 * [Foxotron](https://github.com/Gargaj/Foxotron) - ASSIMP based general purpose model viewer ("turntable") created for the Revision 2021 3D Graphics Competition
 * [ILBMViewer](https://github.com/Gargaj/ILBMViewer) - ILBM (color-cycling image format) viewer for Windows 
 * [showNet](https://github.com/vranki/showet) - Demo viewer using Pouet.net's metadata 
