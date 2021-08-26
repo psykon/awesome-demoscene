@@ -23,7 +23,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
         - [Demoparty Organizing](#demoparty-organizing)
         - [Viewing and Capturing](#viewing-and-capturing)
         - [Websites & Social](#websites--social)
-        - [Github Orgs](#github-orgs)
+        - [Github Orgs & Collections](#github-orgs)
 
 <!-- /TOC -->
 
@@ -163,9 +163,10 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [pouet-enhancement-suite](https://github.com/pandrr/pouet-enhancement-suite) - FireFox/Chrome Addon for Pouet Browsing.
 * [demoscene.no](https://github.com/demoscene-no/demoscene-no.github.io) - The source code for demoscene.no 
 
-### Github Orgs
+### Github Orgs & Collections
 * [in4k](https://github.com/orgs/in4k)
 * [Demoscene Source Archive](https://github.com/demoscene-source-archive) - A collection of demoscene source code.
+* [Demo Sources](https://github.com/collections/demo-sources) - Collection of Demos with Source
 
 
 
