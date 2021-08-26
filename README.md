@@ -116,6 +116,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 
 ### 64k Intros
 * [CNS 2012 Source Pack](https://github.com/ConspiracyHu/2012SourcePack) - Repo containing intros (inc. demotools) of conspiracy up to 2012.
+* [Ctrl-Alt-Test](https://github.com/laurentlb/Ctrl-Alt-Test) - Repo containing the intros "B-Incubation", "D-Four", "E-Departure" and "F-Felix's Workshop" from Ctrl-Alt-Test.
 
 
 ### Demos
