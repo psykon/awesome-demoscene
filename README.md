@@ -47,6 +47,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [4k Demo Oven](https://github.com/CookieCollective/4k-Demo-Oven) - Framework for 4k demos. 
 * [LunarEngine](https://github.com/Moon70/LunarEngine) - This is a very primitive graphics engine, using a simple integer array as chunky-buffer. 
 * [gShaderReplacer](https://github.com/psycholns/gShaderReplacer) - OpenGL proxy dll for shader replacement and debugging 
+* [Ghostown & Whelpz 2021](https://github.com/cahirwpz/demoscene)  - Amiga OCS demoscene related sources 
 
 
 ### Tools
