@@ -32,13 +32,14 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Teach yourself demoscene in 14 days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - Fantastic starting guide by ps.
 * [Demoscene starter kits](https://github.com/anttihirvonen/demoscene-starter-kits) - Want to start making demos but don't know where to begin? Look no further!
 * [in4k.github.io](https://github.com/in4k/in4k.github.io) - markdown clone / fork / 2016 revamp of the good old in4k.untergrund.net wiki - in4k.github.io
+* [Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894) - modern examples and needed knowledge to make games in GPU shaders.
 
 
 ## Demomaking
 *Ressources for creating demos and intros.*
 
 ### Frameworks, Libs & Engines
-
+* [Vulkan Shadertoy launcher](https://github.com/danilw/vulkan-shadertoy-launcher) - create a small single-bin(exe) file with built-in shaders. Using Vulkan and C. (~50Kb with builtin large shader)
 * [Leviathan 2.0](https://github.com/armak/Leviathan-2.0) - A simple "framework" for developing small (around 1-8 kilobyte) Demoscene productions.
 * [shortcrust](https://github.com/gasman/shortcrust) - Shortcrust is a Python wrapper library for OpenGL, intended for building applications that are portable to the Raspberry Pi.
 * [Blossom](https://github.com/lunasorcery/Blossom) - 4K Executable Graphics framework 
@@ -148,6 +149,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 
 ### Viewing and Capturing
 *Having a Beer - capturing a demo.*
+* [Shadertoy to video with FBO](https://github.com/danilw/shadertoy-to-video-with-FBO) - frame perfect Shaders capture script made in Python and OpenGL. Suport Windows/Linux.
 * [Capturinha](https://github.com/kebby/Capturinha) - A tool for real time screen and audio capture on Windows, using NVIDIA's NVENC. 
 * [Conduit](https://github.com/Gargaj/Conduit) - Demo downloader and watching utility and browser plugin 
 * [upskkale](https://github.com/Gargaj/upskkale) - .kkapture-based realtime upscaling of demos that run in deprecated / unsupported video modes. 
