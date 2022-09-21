@@ -60,7 +60,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Farbrausch Public Repo](https://github.com/farbrausch/fr_public) - Farbrausch tools from 2001 to 2011 including werkzeug3 and kkrunchy.
 * [Werkzeug4](https://github.com/kebby/Werkkzeug4) - Farbrausch Werkkzeug4 and Screens4
 * [CNS 2012 Source Pack](https://github.com/ConspiracyHu/2012SourcePack) - Repo containing demotools (and intros) of conspiracy up to 2012.
-* [Grimoire](https://github.com/jshrake/grimoire) - A cross-platform live-coding tool for creative coding with GLSL shaders 
+* [Grimoire](https://github.com/jshrake/grimoire-legacy) - A cross-platform live-coding tool for creative coding with GLSL shader demos. 
 * [Shader Minifier](https://github.com/laurentlb/Shader_Minifier) - A tool that minifies and obfuscates shader code (GLSL and HLSL).
 * [GLSL Shader Shrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - A Windows GUI tool that attempts to reduce the size of GLSL fragment shader code, whilst keeping it readable and understandable.
 * [Shiba](https://github.com/KoltesDigital/shiba) - Digital content creation tool for demoscene and live coding.
