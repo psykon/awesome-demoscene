@@ -33,6 +33,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Demoscene starter kits](https://github.com/anttihirvonen/demoscene-starter-kits) - Want to start making demos but don't know where to begin? Look no further!
 * [in4k.github.io](https://github.com/in4k/in4k.github.io) - markdown clone / fork / 2016 revamp of the good old in4k.untergrund.net wiki - in4k.github.io
 * [Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894) - modern examples and needed knowledge to make games in GPU shaders.
+* [How to "properly" release a Demoscene production](https://youtu.be/lnOi9CVgwPA) - YT video by ps anwering multiple questions on how to release a prod.
 
 
 ## Demomaking
