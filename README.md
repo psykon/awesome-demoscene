@@ -188,6 +188,8 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [livecode.demozoo.org](https://livecode.demozoo.org/) - Archive of recordings from different livecoding events.
 * [scene.hu](https://www.scene.hu/) - The hungarian demoscene portal and community. 
 * [scenecity](https://scenecity.site/) - Streaming and Chat Platform for the demoscene.
+* [scenesat](https://www.scenesat.com/) - A demoscene online-radio, community and accociation.
+* [Nectarine](https://www.scenestream.net) - Demoscene online-radio and home of the Demovibes DJ Mixes. 
 
 ### Curated Lists and Galleries
 *Find beautiful prods*
@@ -201,6 +203,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Inigo Quilez](https://www.youtube.com/@InigoQuilez) - Personal channel of iq. Lot's of content and tutorials on shadercoding, shadertoy and math. 
 * [ferrisstreamsstuff](https://www.youtube.com/@ferrisstreamsstuff) - Personal channels of ferris with recordings on streams on demomaking, emulator development and hardware hacking.
 * [Gasman](https://www.youtube.com/@Gasmanic) - Personal channel of gasman with ZX Spectrum, TIC-80 and livemusic content. 
+* [Zine: The Radio show](https://anchor.fm/zinetheradioshow) - Zine is a Demoscene Podcast from and for sceners, and everyone curious about one of the oldest but still very lively digital art cultures.
 * [Demoscene High-Quality Videos (Annikras)](https://www.youtube.com/@Annikras) - Youtubes biggest collection of captured demos and intros. 
 - [AssemblyTV](https://www.youtube.com/@AssemblyTV) - Channel of Assembly.
 * [Echtzeit](https://www.youtube.com/user/BuenzliDemoparty) - Channel of the swiss scene accociation. 
