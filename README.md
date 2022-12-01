@@ -19,11 +19,16 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
         - [8 k Intros](#8-k-intros)
         - [64 k Intros](#64-k-intros)
         - [Demos](#demos)
-    - [Misc](#misc)
+    - [Misc Repos](#misc-repos)
         - [Demoparty Organizing](#demoparty-organizing)
         - [Viewing and Capturing](#viewing-and-capturing)
         - [Websites & Social](#websites--social)
-        - [Github Orgs & Collections](#github-orgs)
+        - [Github Orgs & Collections](#github-orgs--collections)
+    - [Demoscene Around the Web](#demoscene-around-the-web)
+        - [Community & Archives](#community--archives)
+        - [Curated Lists and Galleries](#curated-lists-and-galleries)
+        - [Youtube Channels and Podcasts](#youtube-channels-and-podcasts)
+        - [Non Profit Accociations](#non-profit-accociations)
 
 <!-- /TOC -->
 
@@ -34,6 +39,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [in4k.github.io](https://github.com/in4k/in4k.github.io) - markdown clone / fork / 2016 revamp of the good old in4k.untergrund.net wiki - in4k.github.io
 * [Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894) - modern examples and needed knowledge to make games in GPU shaders.
 * [How to "properly" release a Demoscene production](https://youtu.be/lnOi9CVgwPA) - YT video by ps anwering multiple questions on how to release a prod.
+* [sizecoding.org](http://www.sizecoding.org) - A wiki dedicated to the art of creating very tiny programs
 
 
 ## Demomaking
@@ -65,8 +71,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Shader Minifier](https://github.com/laurentlb/Shader_Minifier) - A tool that minifies and obfuscates shader code (GLSL and HLSL).
 * [GLSL Shader Shrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - A Windows GUI tool that attempts to reduce the size of GLSL fragment shader code, whilst keeping it readable and understandable.
 * [Shiba](https://github.com/KoltesDigital/shiba) - Digital content creation tool for demoscene and live coding.
-
- 
+- [Bonzomatic To Shadertoy](https://github.com/TheNuSan/BonzomaticToShadertoy) - Python script to convert bonzomatic glsl fragment shaders to use them on shadertoy.com 
 
 
 ### Audio & Synths
@@ -136,7 +141,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 
 
 
-## Misc
+## Misc Repos
 
 ### Demoparty Organizing
 *Ressources for organizing your own party/event.*
@@ -172,6 +177,40 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Demoscene Source Archive](https://github.com/demoscene-source-archive) - A collection of demoscene source code.
 * [Demo Sources](https://github.com/collections/demo-sources) - Collection of Demos with Source
 
+## Demoscene Around the Web 
 
+### Community & Archives
+*Forums, Community Hubs and sites archiving scene productions*
+* [scene.org](https://scene.org/) - Home of the scene.org archive, sceneid and various scene related sites.
+* [Demozoo](https://demozoo.org/) - A website dedicated to collecting and organizing the history of the demoscene - its productions, people, events and many other bits of information.
+* [pouet](https://www.pouet.net) - Home of the glöps, prods and the  oldskool pouët.net bbs.
+* [demoparty.net](https://www.demoparty.net/) - A list of demoscene events happening around the world.
+* [livecode.demozoo.org](https://livecode.demozoo.org/) - Archive of recordings from different livecoding events.
+* [scene.hu](https://www.scene.hu/) - The hungarian demoscene portal and community. 
+* [scenecity](https://scenecity.site/) - Streaming and Chat Platform for the demoscene.
 
+### Curated Lists and Galleries
+*Find beautiful prods*
+* [curio](https://curio.scene.org/) - A curated and continuously expanding collection of modern demoscene and real-time graphics pieces.
+* [executable.graphics](https://executable.graphics/) - A collection of executable graphic prods curated by xy.
 
+### Youtube Channels and Podcasts
+*Watch scene related videos*
+* [psenough](https://www.youtube.com/@psenough) - Personal channel of ps. He publishes a monthly demoscene report as well as guides, partyreports and curated playlists.
+* [Fairlight](https://www.youtube.com/@FairLight1337) - Channel of the Fairlight demogroup. Publishes FairlightTV with interviews, reports and technical insight. 
+* [Inigo Quilez](https://www.youtube.com/@InigoQuilez) - Personal channel of iq. Lot's of content and tutorials on shadercoding, shadertoy and math. 
+* [ferrisstreamsstuff](https://www.youtube.com/@ferrisstreamsstuff) - Personal channels of ferris with recordings on streams on demomaking, emulator development and hardware hacking.
+* [Gasman](https://www.youtube.com/@Gasmanic) - Personal channel of gasman with ZX Spectrum, TIC-80 and livemusic content. 
+* [Demoscene High-Quality Videos (Annikras)](https://www.youtube.com/@Annikras) - Youtubes biggest collection of captured demos and intros. 
+- [AssemblyTV](https://www.youtube.com/@AssemblyTV) - Channel of Assembly.
+* [Echtzeit](https://www.youtube.com/user/BuenzliDemoparty) - Channel of the swiss scene accociation. 
+* [Revision](https://www.youtube.com/@RevisionDemoparty) - Channel of the revision demoparty with compo and seminar recordings.
+* [Evoke Demoparty](https://www.youtube.com/@EvokeEu) - Channel of the Evoke demoparty with compo and seminar recordings.
+* [Field-FX](https://www.youtube.com/@field-fx5751) - Channel of the Field-FX demoparty.
+
+### Non Profit Accociations
+*Local and National accociations supporting the demoscene which are open to join as a member*
+* [Computerkunst e.V](https://deadline.untergrund.net/computerkunstev/uber-uns/) - Berlin based NPA for the support of the demoscene.
+* [Inércia](https://inercia.pt) - Inércia is a non-profit organisation aimed to make the demoscene known in Portugal through preservation and outreach.
+* [Echtzeit - digitale Kultur](https://www.echtzeitkultur.org/) - Echtzeit is a charitable association, with the primary goal of facilitating and supporting the Demoscene in Switzerland.
+- 
