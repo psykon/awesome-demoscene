@@ -54,7 +54,6 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 <!-- * [isystem1k4k](https://github.com/in4k/isystem1k4k) - iq's open source 1k / 4k framework(s) - removed for now - because outdated libs, etc  -->
 * [4k Demo Oven](https://github.com/CookieCollective/4k-Demo-Oven) - Framework for 4k demos. 
 * [LunarEngine](https://github.com/Moon70/LunarEngine) - This is a very primitive graphics engine, using a simple integer array as chunky-buffer. 
-* [gShaderReplacer](https://github.com/psycholns/gShaderReplacer) - OpenGL proxy dll for shader replacement and debugging 
 * [Ghostown & Whelpz 2021](https://github.com/cahirwpz/demoscene)  - Amiga OCS demoscene related sources 
 
 
@@ -71,7 +70,8 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Shader Minifier](https://github.com/laurentlb/Shader_Minifier) - A tool that minifies and obfuscates shader code (GLSL and HLSL).
 * [GLSL Shader Shrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - A Windows GUI tool that attempts to reduce the size of GLSL fragment shader code, whilst keeping it readable and understandable.
 * [Shiba](https://github.com/KoltesDigital/shiba) - Digital content creation tool for demoscene and live coding.
-- [Bonzomatic To Shadertoy](https://github.com/TheNuSan/BonzomaticToShadertoy) - Python script to convert bonzomatic glsl fragment shaders to use them on shadertoy.com 
+* [gShaderReplacer](https://github.com/psycholns/gShaderReplacer) - OpenGL proxy dll for shader replacement and debugging 
+* [Bonzomatic To Shadertoy](https://github.com/TheNuSan/BonzomaticToShadertoy) - Python script to convert bonzomatic glsl fragment shaders to use them on shadertoy.com 
 
 
 ### Audio & Synths
