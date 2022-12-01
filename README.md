@@ -205,7 +205,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Gasman](https://www.youtube.com/@Gasmanic) - Personal channel of gasman with ZX Spectrum, TIC-80 and livemusic content. 
 * [Zine: The Radio show](https://anchor.fm/zinetheradioshow) - Zine is a Demoscene Podcast from and for sceners, and everyone curious about one of the oldest but still very lively digital art cultures.
 * [Demoscene High-Quality Videos (Annikras)](https://www.youtube.com/@Annikras) - Youtubes biggest collection of captured demos and intros. 
-- [AssemblyTV](https://www.youtube.com/@AssemblyTV) - Channel of Assembly.
+* [AssemblyTV](https://www.youtube.com/@AssemblyTV) - Channel of Assembly.
 * [Echtzeit](https://www.youtube.com/user/BuenzliDemoparty) - Channel of the swiss scene accociation. 
 * [Revision](https://www.youtube.com/@RevisionDemoparty) - Channel of the revision demoparty with compo and seminar recordings.
 * [Evoke Demoparty](https://www.youtube.com/@EvokeEu) - Channel of the Evoke demoparty with compo and seminar recordings.
@@ -216,4 +216,4 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Computerkunst e.V](https://deadline.untergrund.net/computerkunstev/uber-uns/) - Berlin based NPA for the support of the demoscene.
 * [Inércia](https://inercia.pt) - Inércia is a non-profit organisation aimed to make the demoscene known in Portugal through preservation and outreach.
 * [Echtzeit - digitale Kultur](https://www.echtzeitkultur.org/) - Echtzeit is a charitable association, with the primary goal of facilitating and supporting the Demoscene in Switzerland.
-- 
+
