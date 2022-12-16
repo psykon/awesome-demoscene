@@ -116,6 +116,10 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * ["Alive Here Now, Forever" by Empathy ](https://github.com/demoscene-source-archive/alive-here-now-forever) -  2nd in the Under Construction 2017 PC High-End Combined 4K/64K competition
 * ["Appear" by Jetlag](https://github.com/w23/jetlag_appear) - Released at Revision 2018
 * ["PiaggioNonTroppo" by Cookie Collective](https://github.com/CookieCollective/Evoke-2019-4k) -  10th in the Evoke 2019 PC 4K Intro competition
+* ["Core Critical" by HBC](https://github.com/Bercon/CoreCritical) - Placed 1st in Assembly 2018 4k intro competition
+* ["VIRGO 1302" by HBC](https://github.com/Bercon/VIRGO-1302) - Placed 1st in Assembly 2020 4k intro competition
+* ["Ghosts of Mars" by Faemiyah](https://github.com/faemiyah/faemiyah-demoscene_2015-08_4k-intro_ghosts_of_mars) - Placed 4th in the Assembly 2015 combined 4k competition
+* ["Hydrokinetics" by Prismbeings](https://github.com/armak/Hydrokinetics) - Placed 1st in the Assembly 2015 combined 4k competiion 
 
 ### 8k Intros
 * ["From The Seas To The Stars" by Fizzer and noby / Eos](https://github.com/demoscene-source-archive/from-the-seas-to-the-stars) -  3rd in the Evoke 2018 PC 64K Intro competition
