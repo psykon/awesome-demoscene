@@ -218,3 +218,4 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Inércia](https://inercia.pt) - Inércia is a non-profit organisation aimed to make the demoscene known in Portugal through preservation and outreach.
 * [Echtzeit - digitale Kultur](https://www.echtzeitkultur.org/) - Echtzeit is a charitable association, with the primary goal of facilitating and supporting the Demoscene in Switzerland.
 - [The Bloop Museum (patreon)](https://www.patreon.com/bloopmuseum) - The US based Bloop Museum strifes to start a year-round brick-and-mortar electronic entertainment museum.
+- [Norsk Demopartyforening](https://demoparty.no/en/) -  A non-profit organization that has the goal of furthering demoparties in Norway.
