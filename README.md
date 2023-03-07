@@ -86,6 +86,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [OpenMPT](https://github.com/OpenMPT/openmpt) - A free Windows/Wine-based tracker and libopenmpt, a library to render tracker music.
 * [libxm](https://github.com/Artefact2/libxm) - A small XM (FastTracker II Extended Module) player library. 
 * [Oidos](https://github.com/askeksa/Oidos) - Oidos is a software synthesizer, based on additive synthesis, for making music for very small executables, such as 4 and 8 kilobyte intros.
++ [sointu](https://github.com/vsariola/sointu) - Fork of 4klang, supporting 386, amd64 and wasm. Runs on Windows, Mac, Linux & browser
 
 
 ## Productions
