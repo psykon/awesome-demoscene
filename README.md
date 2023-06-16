@@ -91,7 +91,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [hivelytracker](https://github.com/pete-gordon/hivelytracker) - Music tracker for AHX and HVL formats
 * [pt2-clone](https://16-bits.org/pt.php) - Music tracker clone of ProTracker 2 for modern computers
 * [ft2-clone](https://16-bits.org/ft2.php) - Fasttracker II clone
-* [komposter](http://komposter.haxor.fi/) - lightweight music composing system
+* [komposter](https://github.com/electronoora/komposter) - lightweight music composing system
 * [bambootracker](https://github.com/rerrahkr/BambooTracker) -YM2608 (OPNA, sound chip of Yamaha) music tracker
 * [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker
 * [goattracker](https://cadaver.github.io/tools.html) - C64 music editor
