@@ -110,7 +110,8 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * ["Light at the End of the Tunnel" by yx](https://github.com/lunasorcery/yx-light-at-the-end-of-the-tunnel) - NOVA 2019 Executable Graphics entry 
 * ["Penrose Pathtraced" by yx](https://github.com/lunasorcery/yx-penrose-pathtraced) - Revision 2019 Executable Graphics entry 
 * ["The Real Party Is In Your Pocket" by Fizzer](https://github.com/demoscene-source-archive/the-real-party-is-in-your-pocket)
-* ["Decay" by Fizzer ](https://github.com/demoscene-source-archive/decay) 
+* ["Decay" by Fizzer ](https://github.com/demoscene-source-archive/decay)
+* ["octree" by NR4](https://github.com/LeStahL/octree) - 4k exe gfx entry by NR4/Team210 at Revision 2k20 
 
 ### 1k Intros
 * ["Crawlspace" by Youth Uprising](https://github.com/in4k/crawlspace)
@@ -143,6 +144,9 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * ["Insert No Coins" by Razor 1911](https://github.com/razordemo/Insert-No-Coins) - Winning entry of the Main 2010 combined 64k competition
 * ["The Scene Is Dead" by Razor 1911](https://github.com/razordemo/THE-SCENE-IS-DEAD) - Placed 3rd at the Revision 2012 pc 64k competition
 * ["Lightcyber" by Team210](https://github.com/LeStahL/lightcyber) - 64k Intro for Evoke 2019
+* ["providence" by Team210](https://github.com/LeStahL/providence) - PC64k intro by Team210 at Vortex 2k19 
+* ["hardcyber" by Team210](https://github.com/LeStahL/hardcyber) - PC-64k-Intro by Team210 at Deadline 2k19 
+* 
 
 
 ### Demos
