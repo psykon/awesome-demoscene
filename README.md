@@ -72,6 +72,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Shiba](https://github.com/KoltesDigital/shiba) - Digital content creation tool for demoscene and live coding.
 * [gShaderReplacer](https://github.com/psycholns/gShaderReplacer) - OpenGL proxy dll for shader replacement and debugging 
 * [Bonzomatic To Shadertoy](https://github.com/TheNuSan/BonzomaticToShadertoy) - Python script to convert bonzomatic glsl fragment shaders to use them on shadertoy.com 
+* [grafx2](http://pulkomandy.tk/projects/GrafX2) - ultimate 256-color bitmap paint program
 
 
 ### Audio & Synths
@@ -86,7 +87,17 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [OpenMPT](https://github.com/OpenMPT/openmpt) - A free Windows/Wine-based tracker and libopenmpt, a library to render tracker music.
 * [libxm](https://github.com/Artefact2/libxm) - A small XM (FastTracker II Extended Module) player library. 
 * [Oidos](https://github.com/askeksa/Oidos) - Oidos is a software synthesizer, based on additive synthesis, for making music for very small executables, such as 4 and 8 kilobyte intros.
-+ [sointu](https://github.com/vsariola/sointu) - Fork of 4klang, supporting 386, amd64 and wasm. Runs on Windows, Mac, Linux & browser
+* [sointu](https://github.com/vsariola/sointu) - Fork of 4klang, supporting 386, amd64 and wasm. Runs on Windows, Mac, Linux & browser
+* [hivelytracker](https://github.com/pete-gordon/hivelytracker) - Music tracker for AHX and HVL formats
+* [pt2-clone](https://16-bits.org/pt.php) - Music tracker clone of ProTracker 2 for modern computers
+* [ft2-clone](https://16-bits.org/ft2.php) - Fasttracker II clone
+* [komposter](http://komposter.haxor.fi/) - lightweight music composing system
+* [bambootracker](https://github.com/rerrahkr/BambooTracker) -YM2608 (OPNA, sound chip of Yamaha) music tracker
+* [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker
+* [goattracker](https://cadaver.github.io/tools.html) - C64 music editor
+* [cheesecutter](http://theyamo.kapsi.fi/ccutter) - SID music editor
+* [furnace](https://github.com/tildearrow/furnace) - multi-system chiptune tracker compatible with DefleMask modules
+* [schism tracker](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look&feel
 
 
 ## Productions
@@ -135,6 +146,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 
 
 ### Demos
+* ["Second Reality" by Future Crew](https://github.com/mtuomi/SecondReality) - Source code and data of Second Reality by Future Crew in 1993 
 * ["Amoeba" by Excess](https://github.com/excess-demogroup/amoeba)
 * ["Doomsday" by Complex](https://github.com/jarnoh/doomsday) - Xbox demo from 2003 
 * ["Okiedokie" by SoopaDoopa](https://github.com/demoscene-source-archive/okiedokie) - MS-DOS Demo from 1999
