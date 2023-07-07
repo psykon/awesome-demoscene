@@ -55,7 +55,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [4k Demo Oven](https://github.com/CookieCollective/4k-Demo-Oven) - Framework for 4k demos. 
 * [LunarEngine](https://github.com/Moon70/LunarEngine) - This is a very primitive graphics engine, using a simple integer array as chunky-buffer. 
 * [Ghostown & Whelpz 2021](https://github.com/cahirwpz/demoscene)  - Amiga OCS demoscene related sources 
-
+* [Harfang3D](https://github.com/harfang3d) - A high-end platform for 2D and 3D application development (C++, Python, Lua) 
 
 ### Tools
 *Complete Demotools and Tools to help you create.*
