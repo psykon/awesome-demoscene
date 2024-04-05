@@ -133,7 +133,8 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * ["Core Critical" by HBC](https://github.com/Bercon/CoreCritical) - Placed 1st in Assembly 2018 4k intro competition
 * ["VIRGO 1302" by HBC](https://github.com/Bercon/VIRGO-1302) - Placed 1st in Assembly 2020 4k intro competition
 * ["Ghosts of Mars" by Faemiyah](https://github.com/faemiyah/faemiyah-demoscene_2015-08_4k-intro_ghosts_of_mars) - Placed 4th in the Assembly 2015 combined 4k competition
-* ["Hydrokinetics" by Prismbeings](https://github.com/armak/Hydrokinetics) - Placed 1st in the Assembly 2015 combined 4k competiion 
+* ["Hydrokinetics" by Prismbeings](https://github.com/armak/Hydrokinetics) - Placed 1st in the Assembly 2015 combined 4k competiion
+* ["Drifting Shores" by NuSan](https://github.com/TheNuSan/Lev4k/tree/DriftingShore) - Placed 1st in the Revision 2024 PC 4k intro competition
 
 ### 8k Intros
 * ["From The Seas To The Stars" by Fizzer and noby / Eos](https://github.com/demoscene-source-archive/from-the-seas-to-the-stars) -  3rd in the Evoke 2018 PC 64K Intro competition
