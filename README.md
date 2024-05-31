@@ -78,7 +78,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 ### Graphics
 *Editors from the scene*
 
-* [grafx2](http://pulkomandy.tk/projects/GrafX2) - ultimate 256-color bitmap paint program
+* [grafx2](https://gitlab.com/GrafX2/grafX2) - ultimate 256-color bitmap paint program - [Website](http://grafx2.chez.com/)
 * [moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor 
 
 ### Audio & Synths
