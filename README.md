@@ -61,6 +61,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 ### Tools
 *Complete Demotools and Tools to help you create.*
 
+* [tooll3](https://github.com/tooll3/t3) - Open source software to create realtime motion graphics. Main demotool of [Still](https://demozoo.org/groups/862/)
 * [nin](https://github.com/ninjadev/nin) - Ninjadev's internal demo tool. It is a tool for easing development of browser-based WebGL demos.
 * [Rocket](https://github.com/rocket/rocket) - A tool for synchronizing music and visuals in demoscene productions.
 * [Crinkler](https://github.com/runestubbe/Crinkler) - Crinkler is an executable file compressor for Windows for compressing small demoscene executables.
@@ -72,9 +73,13 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [GLSL Shader Shrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - A Windows GUI tool that attempts to reduce the size of GLSL fragment shader code, whilst keeping it readable and understandable.
 * [Shiba](https://github.com/KoltesDigital/shiba) - Digital content creation tool for demoscene and live coding.
 * [gShaderReplacer](https://github.com/psycholns/gShaderReplacer) - OpenGL proxy dll for shader replacement and debugging 
-* [Bonzomatic To Shadertoy](https://github.com/TheNuSan/BonzomaticToShadertoy) - Python script to convert bonzomatic glsl fragment shaders to use them on shadertoy.com 
-* [grafx2](http://pulkomandy.tk/projects/GrafX2) - ultimate 256-color bitmap paint program
+* [Bonzomatic To Shadertoy](https://github.com/TheNuSan/BonzomaticToShadertoy) - Python script to convert bonzomatic glsl fragment shaders to use them on shadertoy.com
 
+### Graphics
+*Editors from the scene*
+
+* [grafx2](http://pulkomandy.tk/projects/GrafX2) - ultimate 256-color bitmap paint program
+* [moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor 
 
 ### Audio & Synths
 *Make some noise!*
