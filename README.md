@@ -41,6 +41,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894) - modern examples and needed knowledge to make games in GPU shaders.
 * [How to "properly" release a Demoscene production](https://youtu.be/lnOi9CVgwPA) - YT video by ps anwering multiple questions on how to release a prod.
 * [sizecoding.org](http://www.sizecoding.org) - A wiki dedicated to the art of creating very tiny programs
+* [The Art of Coding](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - Youtube channels with many beginner-friendly tutorials on Shader Coding, Shadertoy, etc.
 
 
 ## Demomaking
