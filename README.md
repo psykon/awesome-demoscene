@@ -67,6 +67,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Rocket](https://github.com/rocket/rocket) - A tool for synchronizing music and visuals in demoscene productions.
 * [Crinkler](https://github.com/runestubbe/Crinkler) - Crinkler is an executable file compressor for Windows for compressing small demoscene executables.
 * [Farbrausch Public Repo](https://github.com/farbrausch/fr_public) - Farbrausch tools from 2001 to 2011 including werkzeug3 and kkrunchy.
+* [P*V3](https://github.com/jumalauta/jml-engine-webgl) - Jumalauta demo engine and tool.
 * [Werkzeug4](https://github.com/kebby/Werkkzeug4) - Farbrausch Werkkzeug4 and Screens4
 * [CNS 2012 Source Pack](https://github.com/ConspiracyHu/2012SourcePack) - Repo containing demotools (and intros) of conspiracy up to 2012.
 * [Grimoire](https://github.com/jshrake/grimoire-legacy) - A cross-platform live-coding tool for creative coding with GLSL shader demos. 
@@ -178,7 +179,10 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 *Ressources for organizing your own party/event.*
 * [CompoKit](https://github.com/kajott/CompoKit/) - CompoKit is an all-inclusive environment with (almost) all tools required for hosting PC demoscene competitions.
 * [Bonzomatic](https://github.com/Gargaj/Bonzomatic) - A live-coding tool, where you can write a 2D fragment/pixel shader while it is running in the background.
-* [Bonzomatic Server](https://github.com/alkama/BonzomaticServer) - Relays shaders from opponents during LiveShading battle that use Bonzomatic. 
+* [Bonzomatic Server](https://github.com/alkama/BonzomaticServer) - Relays shaders from opponents during LiveShading battle that use Bonzomatic.
+* [Granola](https://gitlab.com/granola-compo/granola/) - A minimal, modern competition system for demoparties.
+* [Partyman](https://gitlab.com/T-101/pms3) - The All-in-one Party Manager.
+* [Partyboi](https://github.com/jumalauta/partyboi/) - Partyboi is a demoparty competition and info screen management system.
 * [Partymeister](https://github.com/partymeister) - The Partymeister Demoparty "Intranet" and Composystem.
 * [stuhl.js (Partymeister notification bot)](https://github.com/cyraxx/stuhljs) - This bot provides the ability for Partymeister to broadcast certain events to several destinations.
 * [WUHU](https://github.com/Gargaj/wuhu) - Lightweight Party Management System 
@@ -250,3 +254,4 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Echtzeit - digitale Kultur](https://www.echtzeitkultur.org/) - Echtzeit is a charitable association, with the primary goal of facilitating and supporting the Demoscene in Switzerland.
 - [The Bloop Museum (patreon)](https://www.patreon.com/bloopmuseum) - The US based Bloop Museum strifes to start a year-round brick-and-mortar electronic entertainment museum.
 - [Norsk Demopartyforening](https://demoparty.no/en/) -  A non-profit organization that has the goal of furthering demoparties in Norway.
+- [Comprocrew ry](https://compocrew.fi/) - A registered non-profit association in Finland, that grants aid to Finnish demoscene parties.
