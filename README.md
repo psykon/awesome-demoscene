@@ -81,7 +81,8 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 *Editors from the scene*
 
 * [grafx2](https://gitlab.com/GrafX2/grafX2) - ultimate 256-color bitmap paint program - [Website](http://grafx2.chez.com/)
-* [moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor 
+* [moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
+* [ansied](https://codeberg.org/ansied/ansied) - keyboard focused, web-based ANSI Editor - [Website](https://ansied.estrogen.zone) 
 
 ### Audio & Synths
 *Make some noise!*
