@@ -247,6 +247,8 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Revision](https://www.youtube.com/@RevisionDemoparty) - Channel of the revision demoparty with compo and seminar recordings.
 * [Evoke Demoparty](https://www.youtube.com/@EvokeEu) - Channel of the Evoke demoparty with compo and seminar recordings.
 * [Field-FX](https://www.youtube.com/@field-fx5751) - Channel of the Field-FX demoparty.
+* [The Retro Vibe](https://www.youtube.com/@TheRetroVibeHq) - Channel with oral interviews with sceners (focused around Amiga Norway).
+* [Moleman](https://www.youtube.com/@Molemanfilm) - Channel with documentary and oral interviews with sceners (focused around C64 Hungary).
 
 ### Demoscene Organisations
 *Local and national organisations supporting the demoscene. Listed are those which accept various kind of contributions and memberships*
