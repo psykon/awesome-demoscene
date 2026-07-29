@@ -62,6 +62,7 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 ### Tools
 *Complete Demotools and Tools to help you create.*
 
+* [RetroStudio](https://github.com/non-npc/RetroStudio) - A non-destructive desktop app for creating demoscene-inspired graphics, retro images, animated compositions, character art and layered visual effects.
 * [tooll3](https://github.com/tooll3/t3) - Open source software to create realtime motion graphics. Main demotool of [Still](https://demozoo.org/groups/862/)
 * [nin](https://github.com/ninjadev/nin) - Ninjadev's internal demo tool. It is a tool for easing development of browser-based WebGL demos.
 * [Rocket](https://github.com/rocket/rocket) - A tool for synchronizing music and visuals in demoscene productions.
