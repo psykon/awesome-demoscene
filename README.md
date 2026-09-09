@@ -259,3 +259,4 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 - [The Bloop Museum (patreon)](https://www.patreon.com/bloopmuseum) - The US based Bloop Museum strifes to start a year-round brick-and-mortar electronic entertainment museum.
 - [Norsk Demopartyforening](https://demoparty.no/en/) -  A non-profit organization that has the goal of furthering demoparties in Norway.
 - [Comprocrew ry](https://compocrew.fi/) - A registered non-profit association in Finland, that grants aid to Finnish demoscene parties.
+- [Digitale Kultur e.V.](https://www.digitalekultur.org/en/) - A German non-profit association supporting the demoscene and hosting the annual Evoke demoparty.
