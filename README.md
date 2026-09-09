@@ -187,7 +187,9 @@ Right now, this is mostly focused on PC/OGL/DX Plattforms - Send a PR if you wan
 * [Partyboi](https://github.com/jumalauta/partyboi/) - Partyboi is a demoparty competition and info screen management system.
 * [Partymeister](https://github.com/partymeister) - The Partymeister Demoparty "Intranet" and Composystem.
 * [stuhl.js (Partymeister notification bot)](https://github.com/cyraxx/stuhljs) - This bot provides the ability for Partymeister to broadcast certain events to several destinations.
-* [WUHU](https://github.com/Gargaj/wuhu) - Lightweight Party Management System 
+* [WUHU](https://github.com/Gargaj/wuhu) - Lightweight Party Management System
+* [billedapparat](https://github.com/potibm/billedapparat) - A big-screen display system for rotating slides, live schedules, announcements, and social media posts.
+* [kasseapparat](https://github.com/potibm/kasseapparat) - A lightweight POS and guestlist manager for the entrance desk.
 
 
 ### Viewing and Capturing
